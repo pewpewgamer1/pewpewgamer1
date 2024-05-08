@@ -1,18 +1,71 @@
-# 👻 pewpewgamer1
-
-# 💻 Tech Stack:
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=pewpewgamer1&theme=onedark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=pewpewgamer1&theme=onedark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=pewpewgamer1&theme=onedark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
----
-[![](https://visitcount.itsvg.in/api?id=pewpewgamer1&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-<!---
-pewpewgamer1/pewpewgamer1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<body class="bg-gradient-to-r from-zinc-900 to-black text-white min-h-screen p-5">
+  <div class="container mx-auto p-5">
+    <header class="flex justify-between items-center py-3">
+      <div class="flex items-center space-x-6">
+        <a href="#" class="text-purple-500">
+          <svg
+            xmlns="http://www.w3.org/2000/svg"
+            fill="none"
+            viewBox="0 0 24 24"
+            stroke-width="1.5"
+            stroke="currentColor"
+            class="w-6 h-6"
+          >
+            <path
+              stroke-linecap="round"
+              stroke-linejoin="round"
+              d="M12 3v3m6 15h3M4.5 4.5l2.122 2.122M17.378 17.378l2.122 2.122M17.25 6.75l-8.5 8.5m8.5 0h-8.5v-8.5"
+            />
+          </svg>
+        </a>
+        <nav>
+          <ul class="flex space-x-4">
+            <li><a href="#" class="hover:text-zinc-300">Home</a></li>
+            <li><a href="#" class="hover:text-zinc-300">Contact Us</a></li>
+          </ul>
+        </nav>
+      </div>
+    </header>
+    <section class="text-center py-20">
+      <h1 class="text-4xl lg:text-6xl font-bold mb-4">
+        Shaping the future,<br />one innovation at a time.
+      </h1>
+      <p class="mb-6">
+        At BuilderX, we're dedicated to shaping the future through innovative solutions. Join us in
+        driving progress and making a lasting impact, one innovation at a time.
+      </p>
+      <div class="flex justify-center space-x-4">
+        <a href="#" class="bg-purple-600 hover:bg-purple-700 text-white font-bold py-2 px-4 rounded"
+          >Contact Us</a
+        >
+        <a href="#" class="text-purple-300 hover:text-purple-400">Jobs →</a>
+      </div>
+    </section>
+    <div class="grid grid-cols-1 md:grid-cols-3 gap-10 text-center md:text-left">
+      <div>
+        <h2 class="text-purple-400 mb-2">🛠 Development</h2>
+        <p>
+          Innovation is at the core of what we do at BuilderX. Our talented team of developers is
+          dedicated to building cutting-edge software that delivers seamless user experiences and
+          exceptional performance. Contact us for a free consultation.
+        </p>
+      </div>
+      <div>
+        <h2 class="text-purple-400 mb-2">🔒 Privacy</h2>
+        <p>
+          At BuilderX, your privacy is a top priority. We use the highest industry standards and
+          security measures to ensure your sensitive data is protected. We're committed to improving
+          our practices to maintain your trust and confidence.
+        </p>
+      </div>
+      <div>
+        <h2 class="text-purple-400 mb-2">📦 Products</h2>
+        <p>
+          We offer a wide range of scalable and user-friendly solutions for businesses of all sizes.
+          Our products include enterprise software and custom website applications, all built with
+          the latest technology to boost revenue and streamline operations.
+        </p>
+      </div>
+    </div>
+  </div>
+</body>
